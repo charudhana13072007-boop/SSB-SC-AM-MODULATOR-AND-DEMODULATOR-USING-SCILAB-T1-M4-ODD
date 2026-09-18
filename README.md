@@ -1,5 +1,4 @@
-# SSB-SC-AM-MODULATOR-AND-DEMODULATOR-USING-SCILAB-T1-M4-ODD
-# SSB-SC-AM MODULATOR AND DEMODULATOR
+# SSB-SC-AM-MODULATOR-AND-DEMODULATOR-USING-SCILAB
 
 ## AIM
 
@@ -61,21 +60,24 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 ## TABULATION
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
+<img width="463" height="1280" alt="WhatsApp Image 2026-09-18 at 11 39 55 PM" src="https://github.com/user-attachments/assets/cbf3876e-8b4b-4819-a96d-e9aa042b9409" />
 
----
 
-## MODEL GRAPH
+## Calculation
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 40 28 PM" src="https://github.com/user-attachments/assets/330d339d-4ca3-4dc9-bbb5-b1bb526385ed" />
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 40 42 PM" src="https://github.com/user-attachments/assets/8e66ca00-c793-4c7f-a442-7fd616b64c21" />
+
+## Output
+<img width="1917" height="1020" alt="Screenshot 2026-09-18 234413" src="https://github.com/user-attachments/assets/de9d280c-f72d-49b6-9fd7-1bef404ab528" />
+
+
+## Result
+Successfully performed SSBSC modulation and demodulation using SCI LAB.
+
+
+
+
+
+
 
 
